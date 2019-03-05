@@ -1,0 +1,2 @@
+# PlataformaColegios
+Plataforma para colegios
